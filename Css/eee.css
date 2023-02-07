@@ -603,7 +603,7 @@ nav{
 }
 .img_section1{
     width: 180% !important;
-    height: 57vh !important;
+    height: 100% !important;
     position: relative !important;
     left: -75% !important;
 }
