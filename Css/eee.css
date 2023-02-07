@@ -273,8 +273,8 @@ section.slider{
 .all-point{ 
     position: absolute;
     top: 93%;
-    visibility: hidden;
-    opacity: 0;
+    visibility: visible;
+    opacity: 1;
     z-index: 3;
 
 }
